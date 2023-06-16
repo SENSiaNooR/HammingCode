@@ -1,0 +1,15 @@
+G:\c#\Hamming Code\Hamming Code\Hamming Code\bin\Debug\net7.0\Hamming Code.exe
+G:\c#\Hamming Code\Hamming Code\Hamming Code\bin\Debug\net7.0\Hamming Code.deps.json
+G:\c#\Hamming Code\Hamming Code\Hamming Code\bin\Debug\net7.0\Hamming Code.runtimeconfig.json
+G:\c#\Hamming Code\Hamming Code\Hamming Code\bin\Debug\net7.0\Hamming Code.dll
+G:\c#\Hamming Code\Hamming Code\Hamming Code\bin\Debug\net7.0\Hamming Code.pdb
+G:\c#\Hamming Code\Hamming Code\Hamming Code\obj\Debug\net7.0\Hamming Code.csproj.AssemblyReference.cache
+G:\c#\Hamming Code\Hamming Code\Hamming Code\obj\Debug\net7.0\Hamming Code.GeneratedMSBuildEditorConfig.editorconfig
+G:\c#\Hamming Code\Hamming Code\Hamming Code\obj\Debug\net7.0\Hamming Code.AssemblyInfoInputs.cache
+G:\c#\Hamming Code\Hamming Code\Hamming Code\obj\Debug\net7.0\Hamming Code.AssemblyInfo.cs
+G:\c#\Hamming Code\Hamming Code\Hamming Code\obj\Debug\net7.0\Hamming Code.csproj.CoreCompileInputs.cache
+G:\c#\Hamming Code\Hamming Code\Hamming Code\obj\Debug\net7.0\Hamming Code.dll
+G:\c#\Hamming Code\Hamming Code\Hamming Code\obj\Debug\net7.0\refint\Hamming Code.dll
+G:\c#\Hamming Code\Hamming Code\Hamming Code\obj\Debug\net7.0\Hamming Code.pdb
+G:\c#\Hamming Code\Hamming Code\Hamming Code\obj\Debug\net7.0\Hamming Code.genruntimeconfig.cache
+G:\c#\Hamming Code\Hamming Code\Hamming Code\obj\Debug\net7.0\ref\Hamming Code.dll
