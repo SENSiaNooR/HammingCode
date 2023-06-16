@@ -1,1 +1,1 @@
-# HamminfCode
+# HammingCode
